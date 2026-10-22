@@ -1,8 +1,7 @@
 # Governance
 
-This is a small volunteer group, so the rules are kept light. They borrow from projects that have handled the same
-problems at much larger scale: the CNCF project maturity levels, Apache-style lazy consensus, and Astropy's
-proposal (APE) process.
+This is a small volunteer group, so the rules are kept light. While there is only one maintainer, the comment
+periods below are minimums, not waiting rooms: small fixes merge as soon as they are reviewed.
 
 ## Roles
 
@@ -12,7 +11,8 @@ proposal (APE) process.
 | **Project owner** | The person who created a repo, plus anyone they add | Run their repo however they like, within the Code of Conduct |
 | **Maintainer** | Listed below | Merge PRs to the shared files in [`hub`](https://github.com/aiassistedastronomytaskforce/hub), change org settings, move projects between stages, enforce the Code of Conduct |
 
-Maintainers ([@aiassistedastronomytaskforce/maintainers](https://github.com/orgs/aiassistedastronomytaskforce/teams/maintainers)): @troynguyen8transits
+Maintainers ([@aiassistedastronomytaskforce/maintainers](https://github.com/orgs/aiassistedastronomytaskforce/teams/maintainers)):
+@troynguyen8transits (Troy Nguyen, troynguyen8@gmail.com). Email for anything private, including conduct reports.
 
 New maintainers are nominated in a hub Discussion by an existing maintainer, after a few months of steady
 contributions, and added by lazy consensus. The aim is at least three maintainers from different places, so the

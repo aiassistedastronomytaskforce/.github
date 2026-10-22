@@ -41,6 +41,7 @@ Nearly everything here will be written with AI help. That's fine. The rules:
 
 ## Science results
 
-Candidate objects, search coverage and independent checks go in `hub`, following
+Candidate objects, search coverage and independent checks go in `hub` (members only), following
 [`hub/VETTING.md`](https://github.com/aiassistedastronomytaskforce/hub/blob/main/VETTING.md). Nothing is announced
-as a discovery from this org. Use the usual channels (ExoFOP, AAVSO VSX, RNAAS, the relevant professional team).
+as a discovery from this org. Use the usual channels: ExoFOP CTOIs for planet candidates only; AAVSO VSX, RNAAS or
+the relevant professional team for eclipsing binaries and multiples.
