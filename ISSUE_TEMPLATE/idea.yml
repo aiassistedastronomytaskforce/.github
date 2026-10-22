@@ -1,0 +1,14 @@
+name: Idea or improvement
+description: Suggest a change to this project.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What and why
+    validations: {required: true}
+  - type: dropdown
+    id: doing
+    attributes:
+      label: Will you work on it?
+      options: ["Yes, I'll open a PR", "Maybe, with help", "No, just suggesting"]
