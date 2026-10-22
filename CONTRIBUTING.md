@@ -9,7 +9,7 @@ This is the default guide for every repo in the org. A repo may have its own CON
 
    | Prefix | For | Example |
    |---|---|---|
-   | `pipeline-` | Searches and analysis of survey data | `pipeline-eb-residuals` |
+   | `pipeline-` | Searches and analysis of survey data (any mission) | `pipeline-kepler-ztf-etv` |
    | `demo-` | Interactive or visual demos, simulations, teaching pages | `demo-doppler-wobble` |
    | `tool-` | Reusable utilities and libraries | `tool-tesscut-photometry` |
    | `data-` | Curated datasets, catalogs, cross-matches | `data-tess-cbp-list` |

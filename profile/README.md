@@ -1,9 +1,11 @@
 ## AI-Assisted Astronomy Taskforce
 
-Amateurs and students using AI-assisted tools to search public survey data (mainly TESS) for eclipsing binaries,
-triples, quadruples and circumbinary planets, and building demos that make that work easier to see.
+Amateurs and students using AI-assisted tools on public time-series photometry (TESS, Kepler/K2, CoRoT, CHEOPS,
+ZTF, (Super)WASP, ATLAS, ASAS-SN, Gaia, and PLATO when it arrives) to find eclipsing binaries, triples,
+quadruples and circumbinary planets. The focus is on **combining missions** to corroborate candidates and making
+them **ready for follow-up**, since confirmation, not detection, is usually the bottleneck.
 
-An independent community project, not run or endorsed by NASA or any mission team.
+An independent community project, not run or endorsed by NASA, ESA or any mission team.
 
 **Start here**
 
