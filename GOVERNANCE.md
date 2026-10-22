@@ -12,7 +12,7 @@ proposal (APE) process.
 | **Project owner** | The person who created a repo, plus anyone they add | Run their repo however they like, within the Code of Conduct |
 | **Maintainer** | Listed below | Merge PRs to the shared files in [`hub`](https://github.com/aiassistedastronomytaskforce/hub), change org settings, move projects between stages, enforce the Code of Conduct |
 
-Maintainers: @troynguyen8transits
+Maintainers ([@aiassistedastronomytaskforce/maintainers](https://github.com/orgs/aiassistedastronomytaskforce/teams/maintainers)): @troynguyen8transits
 
 New maintainers are nominated in a hub Discussion by an existing maintainer, after a few months of steady
 contributions, and added by lazy consensus. The aim is at least three maintainers from different places, so the
